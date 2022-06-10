@@ -1,0 +1,4 @@
+(fshell
+  :fetcher github
+  :repo "bx-blee/fshell"
+  :files ("*.el"))
