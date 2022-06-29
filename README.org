@@ -4,3 +4,6 @@
 # fshell
 
 fshell -- numbered shell -- Re-Publication of Noah Friedman 's code --- circa 1994
+
+There is another version of this at https://github.com/emacsattic/fshell.git
+which we are not goint to use.
